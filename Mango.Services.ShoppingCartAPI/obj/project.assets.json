@@ -5667,11 +5667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+      "projectUniqueName": "D:\\repo\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
       "projectName": "Mango.Services.ShoppingCartAPI",
-      "projectPath": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+      "projectPath": "D:\\repo\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
       "packagesPath": "C:\\Users\\quyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\obj\\",
+      "outputPath": "D:\\repo\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5749,6 +5749,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.5, 5.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5757,7 +5763,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
       }
     }
   }

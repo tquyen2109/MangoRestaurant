@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxyFI5xfN6rs+DLi4v7CW12ZRXftQ0LZKSw6JTBnae0OfMQZJiWFkzkyeyNQYIHpgMHCf1lVb0e1bxkOUpWF5Q==",
+  "dgSpecHash": "UU6T3KjpkyQvaYq1ASuv7zvHVqk6AjmFH5ju2n+IPy2O3frWjRd2OJXomN7gGJTPkP/qIGtWPRT3zdcqIEU/TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Services.Identity\\Mango.Services.Identity.csproj",
+  "projectFilePath": "D:\\repo\\MangoRestaurant\\Mango.Services.Identity\\Mango.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quyen\\.nuget\\packages\\duende.identityserver\\5.2.2\\duende.identityserver.5.2.2.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.2\\duende.identityserver.aspnetidentity.5.2.2.nupkg.sha512",
@@ -122,7 +122,8 @@
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\quyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

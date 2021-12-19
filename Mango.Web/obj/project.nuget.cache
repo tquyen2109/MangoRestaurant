@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T+KVI2sAAXo/uO5E8Eut23PArx0dNXxNfaWq/fjVfcGUXcfae9c+yLXH2gVzQsGGIGKzrXymmCs2GvIIKQTqkw==",
+  "dgSpecHash": "zcuz7J7aHbzZUs70jtq9eyyvCMV/UHpcGQZifnoGvbxQC3pPAySUdigcmpyr681qbCo8gN3vfRpgB0oWVWhEVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+  "projectFilePath": "D:\\repo\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quyen\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -60,7 +60,8 @@
     "C:\\Users\\quyen\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\quyen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\quyen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\quyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }

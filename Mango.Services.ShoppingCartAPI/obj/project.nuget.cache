@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNPEP27AVY50d7C1J2A8kndq1T6rxhuBfKF50y9uLDAcBZrJsYNQGZz5ozms2ptlkSbZuNXR2H7rUcFFR4zXDg==",
+  "dgSpecHash": "WuKl8kWRfqadf/O4Vq7ikqd6kvWZaj4VjM71mY8DKspkLgqQckSjFzzUqAOD0gTTWfivRri36VVvZece0TR1Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\quyen\\source\\repos\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
+  "projectFilePath": "D:\\repo\\MangoRestaurant\\Mango.Services.ShoppingCartAPI\\Mango.Services.ShoppingCartAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quyen\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -105,7 +105,8 @@
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\quyen\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\quyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
   "logs": []
 }
